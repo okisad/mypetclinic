@@ -13,9 +13,9 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.oktay</groupId>
-    <artifactId>com.oktay.mypetclinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
-    <name>com.oktay.mypetclinic</name>
+    <artifactId>mypetclinic</artifactId>
+    <version>0.0.4-SNAPSHOT</version>
+    <name>mypetclinic</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
