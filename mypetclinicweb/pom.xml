@@ -3,7 +3,7 @@
     <parent>
         <artifactId>com.oktay.mypetclinic</artifactId>
         <groupId>com.oktay</groupId>
-        <version>0.0.1</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -13,7 +13,7 @@
         <dependency>
             <groupId>com.oktay</groupId>
             <artifactId>mypetclinicdata</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
